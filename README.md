@@ -40,10 +40,10 @@ This sounds like an Educational Institution Student Enrollment Analysis Project.
 
 # Tools and Technologies 
 
-Microsoft Excel
-AI tools
-Data cleaning and Transformation
-Data Visualization 
+- Microsoft Excel
+- AI tools
+- Data cleaning and Transformation
+- Data Visualization 
 
 # Key insights 
 
